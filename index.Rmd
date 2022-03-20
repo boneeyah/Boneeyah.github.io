@@ -1,10 +1,13 @@
 ---
-title: "Website Index"
+title: "About"
 author: "Miguel Bonilla"
 date: "3/19/2022"
 output: html_document
 ---
+# About Me:
+### My name is Miguel Bonilla, and I am a current MSDS student at SMU
+### I was born in El Salvador, but have been living in the United States since I was 16 years old.
+### I graduated from the University of Florida in 2014, with a BS in Biology
+### I work for Browardd College, at the Pembroke Pines campus.
 
-# This is the index file
-## Will add more stuff later on
-### just updating this for now
+### I have included samples of the work I have completed as an MSDS at SMU student, feel free to check them out.

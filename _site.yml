@@ -1,8 +1,8 @@
-name: "website"
+name: "Bonilla"
 navbar:
-  title: "Website"
+  title: "Bonilla"
   left:
-    - text: "Home"
-    href: index.html
-    - text: "CLT"
-    href: CLT.html
+    - text: "About Me"
+      href: index.html
+    - text: "Case Study"
+      href: Case_Study_1.html

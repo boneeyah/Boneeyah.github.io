@@ -6,3 +6,5 @@ navbar:
     href: index.html
     - text: "CLT"
     href: CLT.html
+
+theme: jekyll-theme-cayman

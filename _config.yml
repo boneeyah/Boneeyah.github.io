@@ -7,3 +7,5 @@ navbar:
     - text: "Case Study"
       href: Case_Study_1.html
 
+
+theme: jekyll-theme-cayman

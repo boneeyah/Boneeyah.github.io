@@ -2,22 +2,8 @@ name: "Bonilla"
 navbar:
   title: "Bonilla"
   left:
-<<<<<<< HEAD
-=======
-<<<<<<<< HEAD:_config.yml
-    - text: "Home"
-    href: index.html
-    - text: "CLT"
-    href: CLT.html
-
-theme: jekyll-theme-cayman
-========
->>>>>>> c67510268b72522aa37ae205271496ce58228bb6
     - text: "About Me"
       href: index.html
     - text: "Case Study"
       href: Case_Study_1.html
-<<<<<<< HEAD
-=======
->>>>>>>> c67510268b72522aa37ae205271496ce58228bb6:_site.yml
->>>>>>> c67510268b72522aa37ae205271496ce58228bb6
+

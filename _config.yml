@@ -1,0 +1,8 @@
+name: "Bonilla"
+navbar:
+  title: "Bonilla"
+  left:
+    - text: "About Me"
+      href: index.html
+    - text: "Case Study"
+      href: Case_Study_1.html
